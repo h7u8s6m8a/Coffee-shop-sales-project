@@ -76,7 +76,3 @@ Power BI – Interactive dashboard creation
 📌 Conclusion
 
 This project showcases the ability to transform raw transactional data into actionable business insights using modern data analytics tools. It highlights analytical thinking, technical skills, and dashboard storytelling capabilities.
-
-🎯 Resume bullet points from this project
-
-Tell me which version you want next 🚀
